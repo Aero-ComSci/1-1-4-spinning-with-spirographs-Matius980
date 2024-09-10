@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SkD24yV8)
-# 1.1.4Spirographs
+# 1.1.4 Spirographs
 
 *Complete the following.*
 
@@ -39,4 +39,17 @@ Use the forward() and right() methods to draw the sides of the squares.
 7. Give an example of an undecidable problem, attach code.
    
 
+## 1. Zero Iteration Conditions vs. Infinite Loops
 
+### Zero Iteration Conditions
+*  A zero iteration condition is a loop that never starts. For example, I can set the loop to run 0 times or set it to false, which will turn into a zero iteration condition.
+*  Zero iteration conditions are useful when certain conditions aren't met, which allows less errors to occur.
+*  This is an example of what a zero iteration condition could look like:
+*  ![image](https://github.com/user-attachments/assets/465a2cd3-ad15-4c40-a353-bcbc6223ab66)
+* In this photo, the condition is that the code will print "I love apples!" if the value of apples is greater than 10, which will never happen.
+### Infinite Loops
+* Infinite loops are the exact opposite of zero iteration conditions. The loop continues to run constantly because the terminating condition is never met. The infinite loop can only be terminated externally
+* Infinite loops can be used for keeping an application running, along with various reasons.
+* This is an example of what an infinite loop would look like:
+* ![image](https://github.com/user-attachments/assets/9caa386d-b6da-4011-a858-615920017abd)
+* In this piece of code, apple is equal to zero and the while condition is stating that if apple is less than 1, then it will print "I love apples!". Because apple will always be less than 1, it will run forever.
