@@ -39,7 +39,7 @@ Use the forward() and right() methods to draw the sides of the squares.
 7. Give an example of an undecidable problem, attach code.
    
 
-## 1. Zero Iteration Conditions vs. Infinite Loops
+## Project 1. Zero Iteration Conditions vs. Infinite Loops
 
 ### Zero Iteration Conditions
 *  A zero iteration condition is a loop that never starts. For example, I can set the loop to run 0 times or set it to false, which will turn into a zero iteration condition.
@@ -53,3 +53,23 @@ Use the forward() and right() methods to draw the sides of the squares.
 * This is an example of what an infinite loop would look like:
 * ![image](https://github.com/user-attachments/assets/9caa386d-b6da-4011-a858-615920017abd)
 * In this piece of code, apple is equal to zero and the while condition is stating that if apple is less than 1, then it will print "I love apples!". Because apple will always be less than 1, it will run forever.
+
+## Project 2. Create an algorithm that places up to 5 objects in equal distance from each other
+
+## Project 3. Concentric Squares
+* Concentric Squares code:
+* ![Screenshot 2024-09-10 135359](https://github.com/user-attachments/assets/035ca481-3012-40d0-a6f0-bfe3bf4ad72b)
+* ![image](https://github.com/user-attachments/assets/5eceb96b-7ff3-4b3f-814f-25bf10ec4055)
+
+* Output of the code:
+* ![image](https://github.com/user-attachments/assets/f8bdc660-5392-461c-aa3f-185fa0a9b6d7)
+
+## Project 4. Complete steps 17,18,19 (mypltw)
+
+### Step 17:
+
+* ![image](https://github.com/user-attachments/assets/156197bd-2166-456d-a71a-8adcb94b8237)
+
+### Step 18:
+
+*  
