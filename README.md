@@ -76,4 +76,6 @@ Use the forward() and right() methods to draw the sides of the squares.
 
 ### Step 19:
 
-* 
+*  ![image](https://github.com/user-attachments/assets/80f4d8bd-cc68-48fa-a60f-cca791ef880b)
+
+
