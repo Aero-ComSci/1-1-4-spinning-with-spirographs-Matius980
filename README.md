@@ -69,13 +69,14 @@ Use the forward() and right() methods to draw the sides of the squares.
 ### Step 17:
 
 *  ![image](https://github.com/user-attachments/assets/156197bd-2166-456d-a71a-8adcb94b8237)
-
+* For step 17, I added a for loop to iterate through the code twice, drawing 2 mountains instead of one.
 ### Step 18:
 
 *  ![image](https://github.com/user-attachments/assets/5849da6a-6e5d-4bd3-ad27-3d6758ab4f07)
-
+* I added similar code to the algoritm that draws the 2 mountains, except they are upside down.
+* To do this, I changed the values of x,y,move_x,move_y.
 ### Step 19:
 
 *  ![image](https://github.com/user-attachments/assets/80f4d8bd-cc68-48fa-a60f-cca791ef880b)
-
+* This was probably the most simple part of the code, added a condition stating "while True" and it creates an infinite loop.
 
