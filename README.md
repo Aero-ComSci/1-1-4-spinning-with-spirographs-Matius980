@@ -35,7 +35,7 @@ Use the forward() and right() methods to draw the sides of the squares.
 
 4. Complete the steps 17, 18 and 19 from [mypltw use clever to sign on](https://pltw.read.inkling.com/a/b/5310c007377c46e28d745961310f0c2e/p/728c751a6c4145bea0ea83c5058fb9f9#44b0003a2ee14fcc9865e7bb5faec747)
 5. Answer to step 21
-6. Insert a screenshot or picture of the algorith you used for your tokenizer on the previous activity.
+6. Insert a screenshot or picture of the algorithm you used for your tokenizer on the previous activity.
 7. Give an example of an undecidable problem, attach code.
    
 
@@ -80,3 +80,8 @@ Use the forward() and right() methods to draw the sides of the squares.
 *  ![image](https://github.com/user-attachments/assets/80f4d8bd-cc68-48fa-a60f-cca791ef880b)
 * This was probably the most simple part of the code, added a condition stating "while True" and it creates an infinite loop.
 
+## Project 5. Answer Step 21
+
+* Question: ![image](https://github.com/user-attachments/assets/9882739e-ec1a-4fa0-89c5-bf306e5b6cae)
+
+* The flowchart represents the algorithm where you avoid a zero iteration condition and draw five circles on the screen. 
