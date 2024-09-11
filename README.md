@@ -68,8 +68,12 @@ Use the forward() and right() methods to draw the sides of the squares.
 
 ### Step 17:
 
-* ![image](https://github.com/user-attachments/assets/156197bd-2166-456d-a71a-8adcb94b8237)
+*  ![image](https://github.com/user-attachments/assets/156197bd-2166-456d-a71a-8adcb94b8237)
 
 ### Step 18:
 
-*  
+*  ![image](https://github.com/user-attachments/assets/5849da6a-6e5d-4bd3-ad27-3d6758ab4f07)
+
+### Step 19:
+
+* 
