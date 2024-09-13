@@ -98,3 +98,9 @@ Use the forward() and right() methods to draw the sides of the squares.
 + Additionally, there will be another piece of code that creates an error for the user if the flower they request isn't in the shop.
 + Once the user has specified their flower, they have the ability to choose the quantity of flowers, and we take that input and draw however many flowers they want, unless it is more than 5 flowers. If there are more than 5 flowers requested, an error will occur.
 + Lastly, our code comprises of a code that provides the name of our flower shop and the prompt to answer.
+
+## Project 7. Undecidable Problem
+* An undecidable problem is an algorithm that cannoth be solved
+* I've created a short replica of an infinite loop which can't be solved because the statement is always true.
+* ![image](https://github.com/user-attachments/assets/740a8877-20ae-47d8-b0bd-3a63af7bc8fc)
+* This is the same loop I created to give an example of the infinite loop.
