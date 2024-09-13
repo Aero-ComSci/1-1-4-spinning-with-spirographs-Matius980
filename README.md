@@ -74,7 +74,7 @@ Use the forward() and right() methods to draw the sides of the squares.
 
 *  ![image](https://github.com/user-attachments/assets/5849da6a-6e5d-4bd3-ad27-3d6758ab4f07)
 * I added similar code to the algoritm that draws the 2 mountains, except they are upside down.
-* To do this, I changed the values of x,y,move_x,move_y.
+* To do this, I changed the values of x, y, move_x, move_y.
 ### Step 19:
 
 *  ![image](https://github.com/user-attachments/assets/80f4d8bd-cc68-48fa-a60f-cca791ef880b)
@@ -85,3 +85,14 @@ Use the forward() and right() methods to draw the sides of the squares.
 * Question: ![image](https://github.com/user-attachments/assets/9882739e-ec1a-4fa0-89c5-bf306e5b6cae)
 
 * The flowchart represents the algorithm where you avoid a zero iteration condition and draw five circles on the screen. 
+
+## Project 6. Explain Tokenizer
+
+* ![image](https://github.com/user-attachments/assets/09bb5072-e7b2-4a32-8a11-43d08c69b780)
+
++ In this tokenizer, the goal is to grab the user input, break it down, and if the user's input consist of a specific flower in our shop, then it will call the function.
++ Also, if the user input is similar to the flower in our shop, and is inside our dictionary, then it will still call the function. My partner and I created a dictionary that takes the user input with its mispelled plurals and translates it to a string that is compatible with the code.
++ Next, the flower that the user input chooses will be called and will be drawn at its corresponding coordinate.
++ Additionally, there will be another piece of code that creates an error for the user if the flower they request isn't in the shop.
++ Once the user has specified their flower, they have the ability to choose the quantity of flowers, and we take that input and draw however many flowers they want, unless it is more than 5 flowers. If there are more than 5 flowers requested, an error will occur.
++ Lastly, our code comprises of a code that provides the name of our flower shop and the prompt to answer.
