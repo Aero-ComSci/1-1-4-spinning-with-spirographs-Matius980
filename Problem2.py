@@ -15,7 +15,7 @@ def draw_object(x, y):
     pen.penup()
     pen.goto(x, y)
     pen.pendown()
-    pen.color("blue")
+    pen.color("yellow")
     pen.begin_fill()
     pen.circle(object_radius)  # Object size 
     pen.end_fill()
