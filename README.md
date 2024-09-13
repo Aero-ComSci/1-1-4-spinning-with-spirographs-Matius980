@@ -56,6 +56,8 @@ Use the forward() and right() methods to draw the sides of the squares.
 
 ## Project 2. Create an algorithm that places up to 5 objects in equal distance from each other
 
+* ![image](https://github.com/user-attachments/assets/41401bd7-9038-465d-b8cb-32628bc0f4df)
+* The output of problem 2 shows 5 yellow dots perfectly spaced from each other. Additionally, the dots are drawn in the middle of the screen.
 ## Project 3. Concentric Squares
 * Concentric Squares code:
 * ![Screenshot 2024-09-10 135359](https://github.com/user-attachments/assets/035ca481-3012-40d0-a6f0-bfe3bf4ad72b)
